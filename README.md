@@ -1,5 +1,4 @@
 # Meta-Ad-Performance
-# Swggy-Data-Dashboard
 Project Title :
 Meta Ad Performance
 Example :A Power BI dashboard providing a comprehensive visual analysis of Meta ad performance across Instagram and Facebook. It tracks how users interact with ads through clicks, shares, and comments  do by gender, age group, and city. The dashboard bridges engagement metrics with actual purchase behavior, converting raw interaction data into actionable conversion insights. 
@@ -36,7 +35,7 @@ What is the overall conversion rate from ad impression --> engagement --> purcha
 
 
 Screenshot :
-https://github.com/tonpeP/Swggy-Data-Dashboard/blob/main/swggy%20dashboad.png
+https://github.com/tonpeP/Meta-Ad-Performance/blob/main/Meta%20Ad%20Performance%20Dashborad.png
 
 
 
